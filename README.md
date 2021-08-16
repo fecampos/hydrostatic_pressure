@@ -1,4 +1,4 @@
-# fortran Hydrostatic Pressure from a stratified fluid
+# fortran Hydrostatic Pressure in a stratified fluid
 This library contains Fortran scripts to compute pressure using density and the hydrostatic approximation.
 
 **References**
